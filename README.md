@@ -3,9 +3,11 @@ Development-theme-for-MT6
 
 Theme which is the base of development for MT6
 
-# テンプレートリスト
+Template list
+=========================
 
-## インデックステンプレート
+Index Template
+-------------------------
 
 - HTML-メインページ (index.html)
 - HTML-Blog (blog/index.html)
@@ -19,11 +21,13 @@ Theme which is the base of development for MT6
 - JS-検索JS (search.js)
 - JS-javascript (event.js)
 
-## アーカイブテンプレート
+Archive Template
+-------------------------
 
 - WEB-Webページ (folder-path/page-basename.html)
 - LIST-カテゴリ別アーカイブ (blog/%-c/%i)
 - LIST-月別アーカイブ (blog/%y/%m/%i)
 - BLOG-ブログ記事 (blog/%y/%m/%f)
 
-## テンプレートモジュール
+Template Module
+-------------------------
